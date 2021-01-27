@@ -1,0 +1,16 @@
+we can fetch elements in 3 ways:
+
+*getElementsById:
+we can fetch elements by Id from an HTML documents.If we have two or more
+with same Id then we can get the element using an index number 
+eg:document.getElementsById("Id name");
+
+*getElementsByClassName:
+we can fetch elements by Id from an HTML documents.If we have two or more
+with same Id then we can get the element using an index number 
+eg:document.getElementsByClassName("ClassName");
+
+*getElementsByTagName:
+we can fetch elements by Id from an HTML documents.If we have two or more
+with same Id then we can get the element using an index number
+eg:document.getElementsByTagName(""TagName");

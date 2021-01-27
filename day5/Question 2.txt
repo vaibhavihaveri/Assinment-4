@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <td>Enter First Number:</td>
+                <td><input type="text"  id="name" name="first Number"></td>
+            </tr>
+            <tr>
+                <td>Enter second Number:</td>
+                <td><input type="text"  id="name" name="first Number"></td>
+            </tr>
+        <tr>
+         <td> <button onclick="add()"  >Add</button></td>
+         <td> <input type="text" name="text/>"</td>
+        </tr>
+
+        </thead>
+    <!-- <script src="add.js" ></script>  -->
+    
+</table>
+    <script>
+        function add(){
+            var a=20;
+            var b=40;
+            var c=a+b;
+            console.log(c) 
+        }add();
+         </script>
+</body>
+</html>
